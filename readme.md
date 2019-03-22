@@ -6,4 +6,4 @@
 
 ![Clogging in use](https://github.com/phillipbarron/vscode-snippets/blob/master/assets/littleClogging.gif?raw=true)
 
-### todo - figureout how to publish this as a package in marketplace
+### todo - figure out how to publish this as a package in marketplace so it can be pulled directly in vscode
