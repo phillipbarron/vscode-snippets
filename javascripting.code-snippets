@@ -20,4 +20,10 @@
 		"body": "console.log('${1:key}', JSON.stringify(${2:'thing to stringify'}, null, 2));$0",
 		"description": "JSON.stringify to console in pretty"
 	},
+	"Const arrow function": {
+		"scope": "javascript,typescript",
+		"prefix": "cfunc",
+		"body": "const ${1:name} = () => {$0};",
+		"description": "Const arrow function"
+	},
 }
