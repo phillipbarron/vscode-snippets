@@ -1,6 +1,6 @@
 # vscode-snippets
 
-## Planning to build a library of useful snippets for using is vscode
+## Planning to build a library of useful snippets for using in vscode
 
 ### clog
 
