@@ -26,4 +26,10 @@
 		"body": "const ${1:name} = () => {$0};",
 		"description": "Const arrow function"
 	},
+	"Const ternary": {
+		"scope": "javascript,typescript",
+		"prefix": "ctern",
+		"body": "const ${1:name} = ${2:condition} ? ${3:returnTrue} : ${4:returnFalse};$0",
+		"description": "Const terary"
+	},
 }
