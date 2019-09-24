@@ -6,7 +6,7 @@
 
 ![Clogging in use](https://github.com/phillipbarron/vscode-snippets/blob/master/assets/littleClogging.gif?raw=true)
 
-### Constant arraow function: cfunc
+### Constant arrow function: cfunc
 
 ![Cfunc in use](https://github.com/phillipbarron/vscode-snippets/blob/master/assets/cfunc.gif?raw=true)
 
