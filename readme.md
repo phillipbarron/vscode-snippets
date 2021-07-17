@@ -1,6 +1,6 @@
 # vscode-snippets
 
-## Planning to build a library of useful snippets for using in vscode
+## Planning to build a library of useful snippets for use in vscode
 
 ### Log a JSON Decoded object with formatting: clog
 
